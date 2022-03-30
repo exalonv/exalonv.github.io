@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: 	#f5f5dc;
+  
+}
+#header {
+width: 100%;
+height: 70px;
+text-align: center;
+border-bottom: 4px solid silver;
+background:skyblue;
+color: black;
+line-height: 70px ;
+margin-bottom: 50px;
+font-size: 30px;
+}
+
+#footer {
+   margin-top: 50px;
+   border-top: 4px solid silver;
+   width: 100%;
+   height: 70px;
+   text-align: center;
+   background:skyblue;
+   color: black;
+   line-height: 70px ;
+   font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: indigo;
+  margin-top: 20px;
+}
+
+.photo {
+  width: 200px;
+  height: 300px;
+  border-radius: 60px;
+  border: 2px solid #966F33 ;
+  display: block;
+  margin: 0 auto;
+}
+.postlist {
+  border: 2px solid rgb(0, 0, 0);
+  background: rgb(21, 125, 139);
+  text-align: center;
+  margin-top: 20px;
+  background-position: center;
+}
+.post {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+  line-height: 26px;
+  text-align: center;
+}
+.post p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(155, 177, 219);
+}
+
+.links {
+  width: 200px;
+  background: whitesmoke;
+  border: 4px solid rgba(159, 161, 154, 0.315);
+  color: indigo;
+  border-radius: 30px;
+  text-align: center;
+  
+}
+a {
+  color: rgb(173, 173, 173);
+}
+
+
